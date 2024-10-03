@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
-<h3 align="center">Third year CS Student at LTH</h3>
+<h3 align="center">Forth year CS Student at LTH</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
